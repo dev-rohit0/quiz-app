@@ -4,7 +4,7 @@ import {useNavigate} from 'react-router-dom'
 //import Loader from './Loader'
 
 
-let Images = require('../images.json')
+let Images = require('../categoryID.json')
 const Category = () => {
     let navigate = useNavigate();
 
